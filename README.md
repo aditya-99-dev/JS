@@ -1,2 +1,2 @@
-# JS
-JS-Codes
+# Java 
+Java-Codes
